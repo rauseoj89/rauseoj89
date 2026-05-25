@@ -1,4 +1,4 @@
-# Hello, I'm Rauseo 👋
+# Hello, I'm Jimmy 👋
 
 I am a technologist passionate about **infrastructure automation**, **AI agent integration**, and building modular, efficient systems. I bridge the gap between local system management and intelligent automation, focusing on creating clean, documented workflows.
 
@@ -24,3 +24,5 @@ I am a technologist passionate about **infrastructure automation**, **AI agent i
 - **Development:** Improving language proficiency in **Python** (for robust automation) and **PHP** (to enhance web development capabilities).
     
 Always happy to connect or discuss new technologies. Feel free to reach out if you have questions or want to collaborate!
+
+* **Blog:** [rauseojtech.com](https://rauseojtech.com/) — Exploring the intersections of AI, infrastructure, and automation.
