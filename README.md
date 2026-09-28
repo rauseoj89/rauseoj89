@@ -7,7 +7,7 @@ I am a technologist passionate about **infrastructure automation**, **AI agent i
 - **Languages:**
     - **Python:** Focused on system automation, scripting, and backend utility development.
     - **PHP:** Currently expanding skills for web development and server-side integration. 
-- **Infrastructure:** TrueNAS (RAID-Z1/Z2), Proxmox, Linux (Debian/Ubuntu)
+- **Infrastructure:** TrueNAS (RAID-Z1/Z2), Linux (Debian/Ubuntu)
 - **AI/LLM:** Local LLM deployment, Model Context Protocol (MCP) integration
 - **Documentation:** Obsidian, Markdown, SOP development
 - **Hardware/Making:** 3D Printing (Aquila X2/VoxelMaker)
